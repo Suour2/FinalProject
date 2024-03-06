@@ -1,0 +1,133 @@
+001, Lamball, Neutral
+002, Cattiva, Neutral
+003, Chikipi, Neutral
+004, Lifmunk, Grass
+005, Foxparks, Fire
+006, Fuack, Water
+007, Sparkit, Electric
+008, Tanzee, Grass
+009, Rooby, Fire
+010, Pengullet, Water Ice
+011, Penking, Water Ice
+012, Jolthog, Electric
+012b, Jolthog Cryst, Ice
+013, Gumoss, Grass
+014, Vixy, Neutral
+015, Hoocrates, Dark
+016, Teafant, Water
+017, Depresso, Dark
+018, Cremis, Neutral
+019, Daedream, Dark
+020, Rushoar, Ground
+021, Nox, Dark
+022, Fuddler, Ground
+023, Killamari, Dark
+024, Mau, Dark
+024b, Mau Cryst, Ice
+025, Celaray, Water
+026, Direhowl, Neutral
+027, Tocotoco, Neutral
+028, Flopie, Grass
+029, Mozzarina, Neutral
+030, Bristla, Grass
+031, Gobfin, Water
+031b, Gobfin Ignis, Fire
+032, Hangyu, Ground
+032b, Hangyu Cryst, Ice
+033, Mossanda, Grass
+033b, Mossanda Lux, Electric
+034, Woolipop, Neutral
+035, Caprity, Grass
+036, Melpaca, Neutral
+037, Eikthyrdeer, Neutral
+037b, Eikthyrdeer Terra, Ground
+038, Nitewing, Neutral
+039, Ribunny, Neutral
+040, Incineram, Fire Dark
+040b, Incineram Noct, Dark
+041, Cinnamoth, Grass
+042, Arsox, Fire
+043, Dumud, Ground
+044, Cawgnito, Dark
+045, Leezpunk, Dark
+045b, Leezpunk Ignis, Fire
+046, Loupmoon, Dark
+047, Galeclaw, Neutral
+048, Robinquill, Grass
+048b, Robinquill Terra, Ground
+049, Gorirat, Neutral
+050, Beegarde, Grass
+051, Elizabee, Grass
+052, Grintale, Neutral
+053, Swee, Ice
+054, Sweepa, Ice
+055, Chillet, Ice Dragon
+056, Univolt, Electric
+058, Pyrin, Fire
+058b, Pyrin Noct, Fire Dark
+059, Reindrix, Ice
+060, Rayhound, Electric
+062, Dazzi, Electric
+063, Lunaris, Neutral
+064, Dinossom, Grass Dragon
+064b, Dinossom Lux, Electric Dragon
+065, Surfent, Water
+065b, Surfent Terra, Ground
+066, Marait, Dark
+067, Digtoise, Ground
+068, Tombat, Dark
+069, Lovander, Neutral
+070, Flambelle, Fire
+071, Vanwyrm, Fire Dark
+071b, Vanwyrm Cryst, Ice Dark
+072, Bushi, Fire
+073, Beakon, Electric
+074, Ragnahawk, Fire
+075, Katress, Dark
+076, Wixen, Fire
+077, Verdash, Grass
+078, Vaelet, Grass
+079, Sibelyx, Ice
+080, Elphidran, Dragon
+080b, Elphidran Aqua, Dragon Water
+081, Kelpsea, Water
+081b, Kelpsea Ignis, Fire
+082, Azurobe, Water Dragon
+083, Cryolinx, Ice
+084, Blazehowl, Fire
+084b, Blazehowl Noct, Fire Dark
+085, Relaxaurus, Dragon Water
+085b, Relaxaurus Lux, Dragon Electric
+086, Broncherry, Grass
+086b, Broncherry Aqua, Grass Water
+087, Petallia, Grass
+088, Reptyro, Fire Ground
+088b, Reptyro Cryst, Ice Ground
+089, Kingpaca, Neutral
+089b, Kingpaca Cryst, Ice
+090, Mammorest, Grass
+090b, Mammorest Cryst, Ice
+091, Wumpo, Ice
+091b, Wumpo Botan, Grass
+092, Warsect, Ground Grass
+093, Fenglope, Neutral
+094, Felbat, Dark
+095, Quivern, Dragon
+096, Blazamut, Fire
+097, Helzephyr, Dark
+098, Astegon, Dragon Dark
+099, Menasting, Dark Ground
+100, Anubis, Ground
+101, Jormuntide, Dragon Water
+101b, Jormuntide Ignis, Dragon Fire
+102, Suzaku, Fire
+102b, Suzaku Aqua, Water
+103, Grizzbolt, Electric
+104, Lyleen, Grass
+104b, Lyleen Noct, Dark
+105, Faleris, Fire
+106, Orserk, Dragon Electric
+107, Shadowbeak, Dark
+110, Frostallion, Ice
+110b, Frostallion Noct, Dark
+111, Jetragon, Dragon
